@@ -2,6 +2,8 @@
 
 Generates a Vagrant VM with OpenBSD.
 
+https://app.vagrantup.com/kmonticolo/
+
 ### Requisites ###
 
 - Ruby 1.9.3.
